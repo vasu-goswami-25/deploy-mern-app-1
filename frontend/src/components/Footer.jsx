@@ -4,7 +4,7 @@ const Footer = () => {
   return (
     <footer>
 
-      Designed And Developed By VasuGoswami
+      Designed And Developed By Vasu Goswami
       
     </footer>
   )
